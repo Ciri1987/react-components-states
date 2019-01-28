@@ -1,0 +1,28 @@
+body {
+    font-family: 'Bangers', cursive;
+    background: url('pexels-photo-209224.jpeg');
+
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    display: inline-flex;
+    justify-content: center;
+    margin: 5px;
+    width: 60px;
+    height: 40px;
+    color: rgb(240, 240, 240);
+    background-color: rgb(72, 72, 82);
+    border-radius: 20%;
+
+}
+
+span {
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    font-size: 50px;
+}
